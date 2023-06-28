@@ -4,10 +4,8 @@
 
 1. Clone the repository:
 
-git clone https://github.com/your/repository.git
+git clone (https://github.com/kostaszfls/TemplateC.git)
 
-markdown
-Copy code
 
 2. Install the dependencies:
 
